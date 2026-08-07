@@ -245,11 +245,6 @@ The dashboard helps answer important business questions such as:
 
 ---
 
-## 📸 Dashboard Preview
-
-<p align="center">
-<img src="Images/dashboard.png" width="1000">
-</p>
 
 ---
 
